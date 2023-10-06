@@ -9,7 +9,6 @@ import platform
 
 
 class SysInfo(toga.App):
-
     def startup(self):
         """
         Construct and show the Toga application.
@@ -21,9 +20,9 @@ class SysInfo(toga.App):
         uname = platform.uname()
         main_box = toga.Box()
         main_box.style.direction = "column"
-        
+
         # Widgets
-        system = toga.Label(text=f"System: {uname.system}")
+        system = toga.Label(text=f"System: {uname.system}",style=Pack(padding=10, flex=1))
 
         # add
         main_box.add(system)

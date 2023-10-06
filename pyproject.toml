@@ -3,7 +3,7 @@
 project_name = "SysInfo"
 bundle = "de.cmg"
 version = "0.0.1"
-url = "https://cmg.de/sysinfo"
+url = "https://github.com/Creative-Media-Group/SysInfo"
 license = "Other"
 author = "CMG"
 author_email = "cmg@cmg.de"
