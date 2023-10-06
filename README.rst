@@ -1,4 +1,6 @@
-
+.. image:: src/sysinfo/resources/sysinfo.png
+  :width: 400
+  :alt: Logo
 SysInfo
 =======
 
@@ -11,6 +13,3 @@ An application for reading systeminfo.
 .. _`Briefcase`: https://briefcase.readthedocs.io/
 .. _`The BeeWare Project`: https://beeware.org/
 .. _`becoming a financial member of BeeWare`: https://beeware.org/contributing/membership
-.. image:: src/sysinfo/resources/sysinfo.png
-  :width: 400
-  :alt: Logo
