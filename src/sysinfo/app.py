@@ -4,6 +4,8 @@ An application for reading systeminfo.
 import toga
 from toga.style import Pack
 from toga.style.pack import COLUMN, ROW
+import psutil
+import platform
 
 
 class SysInfo(toga.App):
