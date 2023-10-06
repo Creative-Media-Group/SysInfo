@@ -1,5 +1,4 @@
 .. image:: src/sysinfo/resources/sysinfo.png
-  :width: 400
   :alt: Logo
 SysInfo
 =======
