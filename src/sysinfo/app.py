@@ -20,6 +20,7 @@ class SysInfo(toga.App):
         """
         uname = platform.uname()
         main_box = toga.Box()
+        main_box.style.direction = "column"
         
         # Widgets
         system = toga.Label(text=f"System: {uname.system}")
