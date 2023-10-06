@@ -1,3 +1,4 @@
+[src/sysinfo/resources/sysinfo.png]
 SysInfo
 =======
 
