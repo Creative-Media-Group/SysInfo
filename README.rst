@@ -1,4 +1,5 @@
-.. image::src/sysinfo/resources/sysinfo.png
+.. image:: src/sysinfo/resources/sysinfo.png
+:width: 400
 SysInfo
 =======
 
